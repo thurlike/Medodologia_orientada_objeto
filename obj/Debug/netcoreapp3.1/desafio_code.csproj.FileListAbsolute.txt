@@ -1,0 +1,13 @@
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\bin\Debug\netcoreapp3.1\desafio_code.exe
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\bin\Debug\netcoreapp3.1\desafio_code.deps.json
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\bin\Debug\netcoreapp3.1\desafio_code.runtimeconfig.json
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\bin\Debug\netcoreapp3.1\desafio_code.runtimeconfig.dev.json
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\bin\Debug\netcoreapp3.1\desafio_code.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\bin\Debug\netcoreapp3.1\desafio_code.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\obj\Debug\netcoreapp3.1\desafio_code.csprojAssemblyReference.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\obj\Debug\netcoreapp3.1\desafio_code.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\obj\Debug\netcoreapp3.1\desafio_code.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\obj\Debug\netcoreapp3.1\desafio_code.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\obj\Debug\netcoreapp3.1\desafio_code.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\obj\Debug\netcoreapp3.1\desafio_code.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\desafio_code\obj\Debug\netcoreapp3.1\desafio_code.genruntimeconfig.cache
